@@ -11,7 +11,7 @@
    -> Clique no local host segurando o "CTRL" do teclado.<br>
    
   OBS: para rodar o projeto, certifique-se que você tenha<br>
-   o NODe JS instalado.<br>
+   o NODE JS instalado.<br>
 
    ->Para verificar se o node já está instalado em seu computador, <br>
    abra o prompt de comando e digite NODE -v e dê o enter.<br>
