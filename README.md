@@ -1,5 +1,5 @@
 # Projeto luxolar 🏠 
-<p>Plataforma em construção... ![ícone](https://www.flaticon.com/br/icone-gratis/ferramentas-de-construcao_3866705?term=constru%C3%A7%C3%A3o&page=1&position=7&origin=tag&related_id=3866705)
+<p>Plataforma em construção ![icone](https://icon-icons.com/pt/icone/constru%C3%A7%C3%A3o-configura%C3%A7%C3%B5es-chave-de-roda-/114090)
 <br>Projeto de uma loja especializada em desing de interiores.</p>
 <h1>Instruções para funcionamento local:</h1>
 
