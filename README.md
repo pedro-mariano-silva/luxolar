@@ -1,5 +1,6 @@
 # Projeto luxolar 🏠 
-<p>Plataforma em construção ![icone](https://icon-icons.com/pt/icone/constru%C3%A7%C3%A3o-configura%C3%A7%C3%B5es-chave-de-roda-/114090)
+<p>Plataforma em construção ![icone](https://icon-icons.com/pt/icone/constru%C3%A7%C3%A3o-chave-m%C3%A3o/114098)
+
 <br>Projeto de uma loja especializada em desing de interiores.</p>
 <h1>Instruções para funcionamento local:</h1>
 
