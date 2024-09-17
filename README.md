@@ -1,8 +1,8 @@
 # Projeto luxolar 🏠 
-<p>Plataforma em construção
+<p>Plataforma em construção</p>
 
 
-<br>Projeto de uma loja especializada em desing de interiores.</p>
+<p>Projeto de loja especializada em desing de interiores.</p>
 <h1>Instruções para funcionamento local:</h1>
 
 <p>
@@ -14,7 +14,7 @@
    o NODE JS instalado.<br>
 
    ->Para verificar se o node já está instalado em seu computador, <br>
-   abra o prompt de comando e digite NODE -v e dê o enter.<br>
+   abra o prompt de comando e digite node -v e dê o enter.<br>
    Caso esteja instalado, irá aparecer a versão instalada em seu equipamento. 
    
    
