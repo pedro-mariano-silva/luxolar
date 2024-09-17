@@ -1,5 +1,6 @@
 # Projeto luxolar 🏠 
-<p>Plataforma em construção ![icone](https://cdn.icon-icons.com/icons2/1770/PNG/512/4137171-building-construction-industry-wrench_114098.png)
+<p>Plataforma em construção
+
 
 <br>Projeto de uma loja especializada em desing de interiores.</p>
 <h1>Instruções para funcionamento local:</h1>
