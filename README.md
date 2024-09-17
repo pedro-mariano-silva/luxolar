@@ -16,10 +16,12 @@
    ->Para verificar se o node já está instalado em seu computador, <br>
    abra o prompt de comando e digite node -v e dê o enter.<br>
    Caso esteja instalado, irá aparecer a versão instalada em seu equipamento. 
+   </p>
+
+
+   # Tecnologias utilizadas:
+   <p>->React<br></p>
+    <p>->Javascript<br></p>
+     <p>->Node<br></p>
+      <p>->Css<br></p>
    
-   
-
-
-
-</p>
-
